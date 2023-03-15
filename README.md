@@ -1,5 +1,5 @@
 
-# caixa de propriedades css
+# caixa de propriedades css.
 
 O objetivo do app é salvar suas propiedades favoritas do CSS.
 
